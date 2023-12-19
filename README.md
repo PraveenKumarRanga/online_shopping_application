@@ -2,6 +2,7 @@
 The project is based on an online shopping application
 
 The e-commerce application contains the below functionalities.
+
 Admin Role
 - Admin can log in with their credentials.
 - Product management by category.
